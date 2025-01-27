@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 ```
 
 
-# QFieldSync
+# QSync (in development)
 
 This package contains a suite of functions to simplify the synchronisation (merging and duplicate control) of shared datasets used by several co-workers using individual projects that are processed with [QGIS](https://www.qgis.org/) and/or [QField](https://github.com/opengisch/QField/). 
 

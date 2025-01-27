@@ -1,5 +1,5 @@
 
-# QFieldSync (in development)
+# QSync (in development)
 
 This package contains a suite of functions to simplify the
 synchronisation (merging and duplicate control) of shared datasets used
